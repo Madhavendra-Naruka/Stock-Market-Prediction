@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+
+# Virtual environment
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Compiled Python files (if any)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large datasets (consider Git LFS or alternatives if needed)
+# Single Stock Data/
